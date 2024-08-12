@@ -44,13 +44,9 @@ Once logged in the, the user will be redirected back to the homepage with their 
 
 Now back on the home page, initially if the user is not signed in, they cannot create, like, edit, comment, or delete the posts. When they are signed in, the user will then be able to create posts, like and comment on all posts, and only edit and delete their own posts.
 
-![posts](https://user-images.githubusercontent.com/104251502/170841133-d381930c-cf3c-4865-bbe8-c2d0fdab5ef4.PNG)
-
 ## Post Details
 
 The user can click on specific posts to be directed to a post details page where the can get more information from the post, add comments, and see recommended posts.
-
-![post_details](https://user-images.githubusercontent.com/104251502/170841139-821bb9c7-1023-4513-b103-db0892f23a76.PNG)
 
 ## Credits
 
